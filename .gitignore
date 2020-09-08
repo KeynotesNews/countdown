@@ -123,3 +123,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Keynotes API
+api.py
+
+# macOS
+.DS_Store
