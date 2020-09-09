@@ -1,0 +1,8 @@
+0 18 8 9 * /root/countdown/scripts/7-days.py
+0 18 9 9 * /root/countdown/scripts/6-days.py
+0 18 10 9 * /root/countdown/scripts/5-days.py
+0 18 11 9 * /root/countdown/scripts/4-days.py
+0 18 12 9 * /root/countdown/scripts/3-days.py
+0 18 13 9 * /root/countdown/scripts/2-days.py
+0 18 14 9 * /root/countdown/scripts/1-days.py
+0 18 15 9 * /root/countdown/scripts/24-hrs.py
